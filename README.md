@@ -6,65 +6,56 @@
   <img src="assets/banner.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋 I'm YOUR NAME</h1>
+<h1 align="center">Abdelrhman Sherif Othman</h1>
 
 <h3 align="center">
-Cybersecurity Student • Penetration Tester • Developer
+Cybersecurity Student • Developer
 </h3>
 
 <p align="center">
-    <em>Your short quote goes here.</em>
+    <em>127.0.0.1 wasn't enough.</em>
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-Write something about yourself.
+I'm an 20-year-old cybersecurity student with a passion for offensive security, secure software development, and understanding how systems work under the hood.
 
-- 🔐
-- 💻
-- 📚
-- 🎯
-- 🌍
-- ⚡
+My journey started with software development, but curiosity led me into cybersecurity—learning how attackers think, identifying vulnerabilities, and building more secure applications.
 
+I enjoy working on projects that combine programming with security, whether that's performing penetration tests, building encryption software, reverse engineering binaries, or developing tools to automate security tasks.
 ---
 
 # 🚀 Currently Learning
 
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
+- ✅Web Pentesting
+- ✅Malware Analysis
+- ✅Exploit Development
+- ✅Windows Internals
+- ✅Reverse Eng
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
+### Scripting
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,bash" />
 </p>
 
-### Web
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css,tailwind" />
-</p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,supabase,oraclesql" />
 </p>
 
 ### DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
 </p>
 
 ---
@@ -72,13 +63,11 @@ Write something about yourself.
 # 🔐 Cybersecurity Skills
 
 - Web Application Security
-- API Security
-- Penetration Testing
 - Reverse Engineering
 - Malware Analysis
 - Secure Coding
 - Network Security
-- Authentication
+- Expolit Dev
 - Cryptography
 - Vulnerability Assessment
 
@@ -102,44 +91,46 @@ Write something about yourself.
 ---
 
 # 📂 Featured Projects
+## 💬 Secure Messaging System
 
-## 🔹 Project Name
+A Java desktop application implementing secure communication using modern cryptographic algorithms.
 
-Short description.
+### Features
 
-**Tech**
-
-- Java
-- Spring
-- Docker
-
----
-
-## 🔹 Project Name
-
-Short description.
-
-**Tech**
-
-- React
-- Node
-- MongoDB
+- RSA Encryption
+- AES Encryption
+- SHA-1 Hashing
+- Key Generation
+- Secure Messaging
+- GUI using Java Swing
 
 ---
+  
+## 🏦 Banking Management System
 
-## 🔹 Project Name
+Windows desktop banking application written in C using the Win32 API.
 
-Short description.
+### Features
 
-**Tech**
-
--
+- Login System
+- Deposit & Withdrawal
+- Balance Management
+- Desktop GUI
+- File Management
 
 ---
+## 🔍 Reverse Engineering Practice
 
-## 🔹 Project Name
+Learning reverse engineering through binary analysis and debugging.
 
-Short description.
+Topics include:
+
+- Assembly Analysis
+- Memory Editing
+- Static Analysis
+- Dynamic Analysis
+- PE Files
+- Windows Internals
 
 ---
 
@@ -161,53 +152,6 @@ Short description.
 | THM | |
 | PortSwigger | |
 | CTFs | |
-
----
-
-# 📜 Certifications
-
-- ⏳ Coming Soon
-
----
-
-# 🏆 Achievements
-
-- 🥇
-- 🏅
-- 🎯
-- 🏆
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
 
 ---
 
