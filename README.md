@@ -24,7 +24,7 @@ I'm an 20-year-old cybersecurity student with a passion for offensive security, 
 
 My journey started with software development, but curiosity led me into cybersecurity—learning how attackers think, identifying vulnerabilities, and building more secure applications.
 
-I enjoy working on projects that combine programming with security, whether that's performing penetration tests, building encryption software, reverse engineering binaries, or developing tools to automate security tasks.
+
 ---
 
 # 🚀 Currently Learning
@@ -158,12 +158,12 @@ Topics include:
 # 💀 Terminal
 
 ```bash
-┌──(user㉿kali)-[~]
+┌──(simsim㉿kali)-[~]
 └─$ whoami
 
-YOUR NAME
+Abdelrhman Sherif Othman
 
-┌──(user㉿kali)-[~/skills]
+┌──(simsim㉿kali)-[~/skills]
 └─$ ls
 
 web-security
@@ -173,7 +173,7 @@ secure-development
 linux
 programming
 
-┌──(user㉿kali)-[~/status]
+┌──(simsim㉿kali)-[~/status]
 └─$ cat current_focus.txt
 
 Learning...
@@ -181,15 +181,6 @@ Building...
 Breaking...
 Improving...
 ```
-
----
-
-# 🎯 Goals
-
-- [ ] Goal
-- [ ] Goal
-- [ ] Goal
-- [ ] Goal
 
 ---
 
@@ -225,14 +216,12 @@ Email
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile ⭐
 
 </p>
