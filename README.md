@@ -18,7 +18,7 @@ Cybersecurity Student • Developer
 
 ---
 
-# 🧑‍💻 About Me
+# About Me
 
 I'm an 20-year-old cybersecurity student with a passion for offensive security, secure software development, and understanding how systems work under the hood.
 
